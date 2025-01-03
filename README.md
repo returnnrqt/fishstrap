@@ -59,9 +59,9 @@ Found any bugs? Submit an [issue](https://github.com/returnnrqt/fishstrap/issues
 
 [shield-discord-server]: https://img.shields.io/discord/1299397064165429360?logo=discord&logoColor=white&label=discord&color=4d3dff&style=flat-square
 
-[repo-license]:  https://github.com/returnnrqt/bloxstrap/blob/main/LICENSE
-[repo-actions]:  https://github.com/returnnrqt/bloxstrap/actions
-[repo-releases]: https://github.com/returnnrqt/bloxstrap/releases
-[repo-latest]:   https://github.com/returnnrqt/bloxstrap/releases/latest
+[repo-license]:  https://github.com/returnnrqt/fishstrap/blob/main/LICENSE
+[repo-actions]:  https://github.com/returnnrqt/fishstrap/actions
+[repo-releases]: https://github.com/returnnrqt/fishstrap/releases
+[repo-latest]:   https://github.com/returnnrqt/fishstrap/releases/latest
 
 [discord-invite]:  https://discord.gg/xSsamjAU84
