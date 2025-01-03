@@ -20,7 +20,7 @@
 
 Fishstrap is a Bloxstrap fork aiming to enhance some of the features.
 
-Found any bugs? Submit an [issue](https://github.com/returnnrqt/bloxstrap/issues) or create bug report in our [discord server](https://discord.gg/xSsamjAU84).
+Found any bugs? Submit an [issue](https://github.com/returnnrqt/fishstrap/issues) or create bug report in our [discord server](https://discord.gg/xSsamjAU84).
 
 ## Differences from Bloxstrap
 - Integrations
@@ -49,7 +49,7 @@ Found any bugs? Submit an [issue](https://github.com/returnnrqt/bloxstrap/issues
 <p>
 
 ----
-### Considering a switch? [Download it here](https://github.com/returnrqt/bloxstrap/releases).
+### Considering a switch? [Download it here](https://github.com/returnrqt/fishstrap/releases).
 
 [shield-repo-license]:  https://img.shields.io/github/license/returnnrqt/fishstrap?style=flat-square
 [shield-repo-releases]: https://img.shields.io/github/downloads/returnnrqt/fishstrap/latest/total?color=981bfe&style=flat-square
